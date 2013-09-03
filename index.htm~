@@ -1,7 +1,8 @@
 <html>
 <head>
 <title>Vagnini.net- the technical landing page</title>
-<link rel="stylesheet" href="vagnini.css" />
+<link rel="stylesheet" href="css/vagnini.css" />
+<link rel="stylesheet" href="css/bootstrap.min.css" />
 </head>
 <body>
 <h2>Welcome to Vagnini.net</h2>
