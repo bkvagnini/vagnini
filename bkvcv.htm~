@@ -79,39 +79,47 @@ Using Perl/CGI Scripts (2.5 hrs)
 <strong><p>Project: Customized music player (In Planning Stages)</p></strong>
 <p>Client: Myself / 24thbay.com</p>
 <p>Technology used: PHP /HTML form front-end /MySQL server back-end</p>
+<br />
 
 <strong><p>Project: Yums (a self-hosted form of Delicious) (In Planning Stages)</p></strong>
 <p>Client: Myself</p>
 <p>Technology used: PHP /HTML form front-end /MySQL server back-end</p>
+<br />
 
 <strong><p>Project: Intranet birthday/employee info site (In Planning Stages)</p></strong>
 <p>Client: CALA</p>
 <p>Technology used: PHP /HTML form front-end /MySQL server back-end OR Django</p>
+<br />
 
 <strong><p>Project: Event Registration page (7/19/12 to 8/22/12)</p></strong>
 <p>Client: Florida Center for Reading Research (Florida State University)</p>
 <p>Technology used: PHP /HTML form front-end/ MS SQL Server back-end/ MS Excel for the reports</p>
+<br />
 
 <strong><p>Project: Video Dubbing Database (1/19/10 to 6/24/10)</p></strong>
 <p>Client: The Florida Channel (part of WFSU-TV/FM, Florida State University)</p>
 <p>Technology used: Access Front-end/ MS SQL Server back-end (SQL Server installed on a VMWare VM)</p>
+<br />
 
 <strong><p>Project: Music Library Inventory Database (around 6/9/10)</p></strong>
 <p>Client: WFSU-TV/FM (Florida State University)</p>
 <p>Technology used: PHP /HTML form front-end/ MySQL Server back-end </p>
-
+<br />
 
 <strong><p>Project: Museum Gallery Inventory Database (9/25/09 to 1/20/10)</p></strong>
 <p>Client: WFSU-TV/FM (Florida State University)</p>
 <p>Technology used: PHP /HTML form front-end/ MySQL Server back-end </p>
+<br />
 
 <strong><p>Project: MeMoney Calculator (found at http://vagnini.net/tools/m-balances.htm)</p></strong>
 <p>Client: Myself</p>
 <p>Technology used: JavaScript /HTML form front-end</p>
+<br />
 
 <strong><p>Project: Online PDF menu uploading system (3/18/08 to 7/6/08)</p></strong>
 <p>Client: Paradigm Restaurant and Bar</p>
 <p>Technology used: PHP /HTML form</p>
 </div>
+
 </body>
 </html
