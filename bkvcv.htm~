@@ -16,8 +16,13 @@
 <a href="https://github.com/bkvagnini" target="_blank">https://github.com/bkvagnini</a></p>
 </div>
 <div class="skills">
-<h2>Languages</h2>
-<p>PHP, Python, XHTML/HTML5, CSS, JavaScript, Transact-SQL</p>
+<h2>Technologies Used</h2>
+<p><strong>Front End:</strong> XHTML/HTML5, CSS, JavaScript</p>
+<p><strong>Back End: </strong>PHP, Python, MS SQL Server, MySQL</p>
+<p><strong>Design/Media:</strong> Photoshop, Illustrator, InDesign, Premiere Pro, Openshot Video Editor</p>
+<p><strong>Misc.:</strong> Git, Nginx, Apache, IIS</p>
+</div>
+<div class="education">
 <h2>Certifications</h2>
 <p>CIW:  Web Design Specialist, JavaScript Specialist</p>
 <p>CompTIA: I-Net+, Security +</p>
@@ -73,52 +78,53 @@ Using Perl/CGI Scripts (2.5 hrs)
 <li><p>Web Server Administration (IIS and Apache) (30 hours)(developed and taught the week-long course)</p></li>
 <li><p>HTML (3 levels) (30 hours) (revised the curriculum and taught the courses)</p></li>
 <li><p>PHP/MySQL (12 hours) - JavaScript (12 hours) - Perl (6 hours) - Website Accessibility (Section 508)</p></li> (6 hours) (taught these courses)
+</div>
 
 <div class="projects">
 <h2>Projects</h2>
-<strong><p>Project: Customized music player (In Planning Stages)</p></strong>
-<p>Client: Myself / 24thbay.com</p>
-<p>Technology used: PHP /HTML form front-end /MySQL server back-end</p>
+<strong><p>Project: Customized music player (In Planning Stages)</strong><br />
+Client: Myself / 24thbay.com<br />
+Technology used: PHP /HTML form front-end /MySQL server back-end</p>
 <br />
 
-<strong><p>Project: Yums (a self-hosted form of Delicious) (In Planning Stages)</p></strong>
-<p>Client: Myself</p>
-<p>Technology used: PHP /HTML form front-end /MySQL server back-end</p>
+<strong><p>Project: Yums (a self-hosted form of Delicious) (In Planning Stages)</strong><br />
+Client: Myself<br />
+Technology used: PHP /HTML form front-end /MySQL server back-end</p>
 <br />
 
-<strong><p>Project: Intranet birthday/employee info site (In Planning Stages)</p></strong>
-<p>Client: CALA</p>
-<p>Technology used: PHP /HTML form front-end /MySQL server back-end OR Django</p>
+<strong><p>Project: Intranet birthday/employee info site (In Planning Stages)</strong><br />
+Client: Center for the Advancement of Learning and Assessment (CALA, Florida State University)<br />
+Technology used: PHP /HTML form front-end /MySQL server back-end OR Django</p>
 <br />
 
-<strong><p>Project: Event Registration page (7/19/12 to 8/22/12)</p></strong>
-<p>Client: Florida Center for Reading Research (Florida State University)</p>
-<p>Technology used: PHP /HTML form front-end/ MS SQL Server back-end/ MS Excel for the reports</p>
+<strong><p>Project: Event Registration page (7/19/12 to 8/22/12)</strong><br />
+Client: Florida Center for Reading Research (FCRR, Florida State University)<br />
+Technology used: PHP /HTML form front-end/ MS SQL Server back-end/ MS Excel for the reports</p>
 <br />
 
-<strong><p>Project: Video Dubbing Database (1/19/10 to 6/24/10)</p></strong>
-<p>Client: The Florida Channel (part of WFSU-TV/FM, Florida State University)</p>
-<p>Technology used: Access Front-end/ MS SQL Server back-end (SQL Server installed on a VMWare VM)</p>
+<strong><p>Project: Video Dubbing Database (1/19/10 to 6/24/10)</strong><br />
+Client: The Florida Channel (part of WFSU-TV/FM, Florida State University)<br />
+Technology used: Access Front-end/ MS SQL Server back-end (SQL Server installed on a VMWare VM)</p>
 <br />
 
-<strong><p>Project: Music Library Inventory Database (around 6/9/10)</p></strong>
-<p>Client: WFSU-TV/FM (Florida State University)</p>
-<p>Technology used: PHP /HTML form front-end/ MySQL Server back-end </p>
+<strong><p>Project: Music Library Inventory Database (around 6/9/10)</strong><br />
+Client: WFSU-TV/FM (Florida State University)<br />
+Technology used: PHP /HTML form front-end/ MySQL Server back-end </p>
 <br />
 
-<strong><p>Project: Museum Gallery Inventory Database (9/25/09 to 1/20/10)</p></strong>
-<p>Client: WFSU-TV/FM (Florida State University)</p>
-<p>Technology used: PHP /HTML form front-end/ MySQL Server back-end </p>
+<strong><p>Project: Museum Gallery Inventory Database (9/25/09 to 1/20/10)</strong><br />
+Client: WFSU-TV/FM (Florida State University)<br />
+Technology used: PHP /HTML form front-end/ MySQL Server back-end </p>
 <br />
 
-<strong><p>Project: MeMoney Calculator (found at http://vagnini.net/tools/m-balances.htm)</p></strong>
-<p>Client: Myself</p>
-<p>Technology used: JavaScript /HTML form front-end</p>
+<strong><p>Project: MeMoney Calculator (found at <a href="http://vagnini.net/tools/m-balances.htm" target="_blank">http://vagnini.net/tools/m-balances.htm</a>)</strong><br />
+Client: Myself<br />
+Technology used: JavaScript /HTML form front-end</p>
 <br />
 
-<strong><p>Project: Online PDF menu uploading system (3/18/08 to 7/6/08)</p></strong>
-<p>Client: Paradigm Restaurant and Bar</p>
-<p>Technology used: PHP /HTML form</p>
+<strong><p>Project: Online PDF menu uploading system (3/18/08 to 7/6/08)</strong><br />
+Client: Paradigm Restaurant and Bar<br />
+Technology used: PHP /HTML form</p>
 </div>
 
 </body>
