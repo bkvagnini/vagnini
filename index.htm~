@@ -34,7 +34,7 @@
 		<li><a href="http://virtualdotcompanies.com" target="_blank"> virtual.companies- a book about how to Bootstrap your Startup</a></li>
 		<li><a href="http://www.linkedin.com/in/briankvagnini/" target="_blank"> My LinkedIn account</a></li>
 		<li><a href="https://github.com/bkvagnini" target="_blank"> My Github account</a></li>
-		<li><a href="BrianKVagniniresume042213.pdf" target="_blank"> My Print Resume</a></li>
+		<li><a href="BrianProgrammingCV.pdf" target="_blank"> My Print Resume</a></li>
 		<li><a href="bkvcv.htm" target="_blank"> My Online Resume</a></li>
 		<br />
 		<hr />
@@ -54,7 +54,7 @@
 	
 	</div>
 	
-	<div class="col col-lg-12 footer">
+	<div class="col col-lg-12 footer text-center">
 	850-583-0842 | <a href="mailto:brian@vagnini.net" class=".glyphicon .glyphicon-envelope">brian@vagnini.net</a>
 	</div>
 	
