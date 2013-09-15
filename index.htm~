@@ -14,13 +14,13 @@
 		<!--[endif]-->
 </head>
 <body>
-<header class="col col-lg-12">
+<header class="col col-lg-12 text-center">
 <h2>Welcome to Vagnini.net</h2>
 <p>This is my Technical landing page.</p>
 </header>
 <section>
-<article id="text" class="col col-lg-12">
-<p> The short version? I'm a Network Administrator (Windows, MAC XServe and Linux), who also does some website design, along with a smattering of PHP, JavaScript and Python code. I have also written technical articles & manuals, as well as taught technical courses for a total of five years.</p>
+<article id="text" class="col col-lg-12 text-center">
+<p> The short version? I'm a Network Administrator (Windows, MAC XServe and Linux), who also does some website design, along with a smattering of PHP, JavaScript and Python code. <br /> I have also written technical articles & manuals, as well as taught technical courses for a total of five years.</p>
 <p>My Creative landing page is at <a href="http://briankvagnini.com" target="_blank">briankvagnini.com</a></p>
 </article><!--end of overview article --> 
 </section>
@@ -46,7 +46,7 @@
 	</aside><!--end of sidebar aside -->
 	
 	<!-- <div class="pic"> -->
-<div class="col col-lg-9 col-lg-push-3">
+<div class="col col-lg-9">
 	<img src="images/me-tatshop.jpg" alt="closeup of my face at an angle, looking up" width="90%" height="90%"/>
 	</div><!--end of pic div -->
 	</div><!--end of row div -->	
