@@ -1,8 +1,17 @@
+<!doctype html>
 <html>
 <head>
-<title>Vagnini.net- the technical landing page</title>
-<link rel="stylesheet" href="css/vagnini.css" />
-<link rel="stylesheet" href="css/bootstrap.min.css" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Brian K. Vagnini - tech</title>
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="css/bootstrap-theme.css" rel="stylesheet" type="text/css">
+<link href="css/vagnini.css" rel="stylesheet" type="text/css">
+<!-- HTML5 shim for IE backwards compatibility -->
+	<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+			</script>
+		<!--[endif]-->
 </head>
 <body>
 <h2>Welcome to Vagnini.net</h2>
@@ -22,7 +31,7 @@
 		<hr />
 		<h3>Tools</h3>
 		<li><a href="tools/m-balances.htm" target="_blank"> > Me Money tool</a></li>
-		<li><a href="tools/yummy/index.php" target="_blank"> > Yummy (my version of Delicious)- coming soon...</a></li>
+		<li><a href="tools/yummy/index.php" target="_blank"> > Yums[Your Url Management System] (my version of Delicious)- coming soon...</a></li>
 		<li><a href="tools/tinyrss/index.php" target="_blank"> > TinyTinyRss (replacement for Google Reader)- moving here soon...<a></li>
 		</ul>
 	</div>
