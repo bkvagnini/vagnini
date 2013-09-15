@@ -20,7 +20,7 @@
 </header>
 <section>
 <article id="text" class="col col-lg-12 text-center">
-<p> The short version? I'm a Network Administrator (Windows, MAC XServe and Linux), who also does some website design, along with a smattering of PHP, JavaScript and Python code. <br /> I have also written technical articles & manuals, as well as taught technical courses for a total of five years.</p>
+<p> The short version? I'm a Network Administrator (Windows, MAC XServe and Linux), who also does some website<br /> design, along with a smattering of PHP, JavaScript and Python code. <br /> I have also written technical articles & manuals, as well as taught technical courses for a total of five years.</p>
 <p>My Creative landing page is at <a href="http://briankvagnini.com" target="_blank">briankvagnini.com</a></p>
 </article><!--end of overview article --> 
 </section>
@@ -55,7 +55,7 @@
 	</div>
 	
 	<div class="col col-lg-12 footer">
-	850-583-0842 | <a href="mailto:brian@vagnini.net">brian@vagnini.net</a>
+	850-583-0842 | <a href="mailto:brian@vagnini.net" class=".glyphicon .glyphicon-envelope">brian@vagnini.net</a>
 	</div>
 	
 <script src="http://code.jquery.com/jquery-latest.js"></script>
