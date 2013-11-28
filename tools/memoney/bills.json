@@ -1,0 +1,42 @@
+{"bills":[
+  {"date_due":6,
+  "name": "VPN-privateinternetaccess",
+  "amt": 6.95
+  },
+    {"date_due":10,
+  "name": "Safari Books",
+  "amt": 9.99
+  },
+    {"date_due":12,
+  "name": "domain renewal",
+  "amt": 15
+  },
+    {"date_due":12,
+  "name": "Savings",
+  "amt": 40
+  },
+    {"date_due":20,
+  "name": "Feedbands",
+  "amt": 19.90
+  },
+    {"date_due":20,
+  "name": "vagnini.net hosting",
+  "amt": 8.99
+  },
+    {"date_due":23,
+  "name": "Rosetta Stone",
+  "amt": 59.80
+  },
+   {"date_due":24,
+  "name": "domain renewal",
+  "amt": 15
+  },
+    {"date_due":24,
+  "name": "Savings",
+  "amt": 0
+  }
+]}
+
+
+ Payday $15 domain renewal
+* Payday save $40 (from previous DC purchase) ($0 until Rosetta is pd off)
