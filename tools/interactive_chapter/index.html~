@@ -84,11 +84,11 @@
                 <p class="narrative"> This is our question. Notice how it is styled.</p>
                 <p>As compared to this text.</p>
 
-                <p><span class="leadIn"><strong><em>Lesson point/Bullet point</em> Don't eat yellow snow.</strong></span> More text follows.</p>
+                <p><span class="leadIn"><strong><em>Lesson point/Bullet point</em> Don't eat yellow snow.</strong></span> More Lesson Point text follows.</p>
 
                 
 
-                <p>Research shows that feedback becomes particularly effective when it moves students beyond tasks on to the levels Hattie and Timperley referred to as <em>feedback about the processing of the task</em> and <em>feedback about self-regulation.</em> Shortly, we will look at those levels, but first let us look at <em>feedback related to one’s self as a person.</em> It turns out that this last level interacts with task-level feedback in interesting and, unfortunately, undesirable ways.</p>
+                <p>More text related to Section C.</p>
             </section> <!-- end of #SectionC (4) -->
 
             <section class="page" id="SectionD"> <!-- Start of #SectionD (5) -->
@@ -141,7 +141,7 @@
 
            <section class="page" id="summary"> <!-- Start of #Summary (8) -->
                <h2>Summary</h2>
-               <p>This is the summary of what we just said/ Have another gander at that Figure 1 again. You know you want to... <p><a href="#figure1" class="opener">Figure 1</a> </p>
+               <p>This is the summary of what we just said. Have another gander at that Figure 1 again. You know you want to... <p><a href="#figure1" class="opener">Figure 1</a> </p>
               
            </section> <!-- End of #Summary (8) -->
            
@@ -175,15 +175,15 @@
                     <figure>
                         <hr>
                           <ol>
-                                <li>Reduce uncertainty between students' performance and the goal.</li>
-                                <li>Use praise sparingly, if at all.</li>
-                                <li>Focus feedback on the task, not the learner.</li>
-                                <li>Avoid communicating feelings toward students when delivering feedback orally.</li>
-                                <li>Do not give normative comparisons when delivering feedback.</li>
-                                <li>Avoid providing overall grades along with feedback.</li>
+                                <li>Item 1</li>
+                                <li>Item 2</li>
+                                <li>Item 3</li>
+                                <li>Item 4</li>
+                                <li>Item 5</li>
+   
                             </ol>
                         <hr>
-                        <p><strong>Table 1:</strong> The feedback guidelines that have been discussed presently.</p>
+                        <p><strong>Table 1:</strong> Table title</p>
                     </figure>
                 </section> <!-- end of #table1 -->
             </section> <!-- end of #tables -->
@@ -192,54 +192,22 @@
                 <section class="figure" id="figure1" title="Figure 1">
                     <figure>
                         <hr>
-                        <h4>Purpose of feedback</h4>
-                        <p>To reduce discrepancies between desired goals and students' present understandings and performance.</p>
-                        <h4>How do we reduce discrepancies?</h4>
-                        <p>Students can reduce these discrepancies by</p>
+                        <h4>Title of Figure 1</h4>
+                        <p>Figure one text..or maybe a picture of a goat. I like goats.</p>
                         <ul>
-                            <li>increasing effort and employing more effective strategies, relying in part on effective feedback.</li>
-                            <li>abandoning, lowering, or blurring their goals.</li>
+                            <li>Item 1</li>
+                            <li>Item 2</li>
                         </ul>
-                        <p>Teachers can reduce these discrepancies by</p>
-                        <ul>
-                            <li>providing appropriate, challenging specific goals.</li>
-                            <li>helping students reach their goals through effective learning strategies and feedback.</li>
-                        </ul>
-                        <h4>What is the value of effective feedback?</h4>
-                        <p>Effective feedback addresses three questions:</p>
-                        <ol>
-                            <li>Where am I going?</li>
-                            <li>Where am I now?</li>
-                            <li>What do I do next?</li>
-                        </ol>
-                        <p>These questions are addressed at four levels:</p>
-                        <ul>
-                            <li><strong>Task level:</strong> Provides feedback related to how well a task was performed</li>
-                            <li><strong>Process level:</strong> Provides feedback related to the process needed to understand the task</li>
-                            <li><strong>Self-regulation level:</strong> Provides feedback related to the student's self-regulation'</li>
-                            <li><strong>Self level:</strong> Provides feedback related to one's self as a person</li>
-                        </ul>
+                        
                         <hr>
 
                             <figcaption class="challenge">
 
-                            <a href=""><strong>Figure 1</strong>: A model of feedback to enhance learning.&hellip;</a>
-                            <p class="solution">This adaptation of the model of feedback proposed by Hattie and Timperley (2007) is divided into three blocks. The first block establishes that the main purpose of feedback is to reduce discrepancies between learning goals and students’ present knowledge and skills. The second block identifies the basic strategies students and teachers each have for reducing these discrepancies. The third and largest block presents the three questions that are relevant to addressing the discrepancies and, of particular importance, the four levels at which these questions are addressed.</p>
+                            <a href=""><strong>Figure 1</strong>: More crap about Figure 1. Explanation text?&hellip;</a>
+                            <p class="solution">This This is text about Figure 1...or Goats...whichever you prefer.</p>
                         </figcaption>
                     </figure>
                 </section> <!-- end of #figure1 -->
-                
-                <section class="figure" id="figure2" title="Figure 2">
-                    <figure>
-                        <hr>
-                        <img src="img/figure-2.png" alt="Figure includes five components of problem solving: establish representation of problem, select relevant strategy, employ strategy and evaluate results, determine if strategy worked, and solve problem." />
-                        <hr>
-                        <figcaption class="challenge">
-                            <a href=""><strong>Figure 2</strong>: Components of self-regulated learning.&hellip;</a>
-                            <p class="solution">The three basic phases of self-regulated learning are planning, practice, and evaluation. These phases are cyclical, each building on the previous and feeding into the next phase.</p>
-                        </figcaption>
-                    </figure>
-                </section> <!--! end of #figure2 -->
             </section> <!-- end of #figures -->
         </section> <!-- end of #main -->
 
