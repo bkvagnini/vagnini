@@ -12,102 +12,47 @@
 			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
 			</script>
 		<!--[endif]-->
-<script src="http://code.jquery.com/jquery-latest.js"></script>
-<script src="js/bootstrap.min.js"></script>
 <script src="js/memoney.js"></script>
 </head>
 <body onload="javascript:allzero()">
-<div class="app">
-<form name="form1">
-<table>
-<tr>
-<td height="479">
+<div class="app col col-lg-3"> <!-- Begin the Bootstrap section -->
 
+<div id="overview"> <!--  Begin the Overview section   -->
+    <strong>Today's Date: </strong>
+    <script language="JavaScript">document.writeln(curdate)</script>
+    <br>
+    <strong>Current Balance: <input type="text" id="curbalance" name="curbalance">
+</div> <!--  End the Overview section   -->
+    <hr>
+<div id="Adjustments"> <!-- Begin the Adjustments section -->
 
-<!--  This is the Overview section   -->
-
-<table border="0" id="overview">
-<tr>
-
-  <td><div ><strong>Today's Date: </strong></div></td>
-
-      </tr>
-	  <tr>
-	  <td> <span class="totalamt"><script language="JavaScript">document.write(curdate)</script></td>
-    	</tr>
-
-    <tr>
-
-      <td><div align="right"><strong>Current Balance: <input type="text" id="curbalance" name="curbalance"></div></td>
-
-
-    </tr>
-
-    <tr>
-
-      <td><div align="right"><strong>Amount of Debits: </strong></div></td>
-
-      <td>
-
-      	<input type="button" value="=" onclick="document.write(document.form1.amtdebits.value);">		 </td>
-      	      	<input type="button" value="Edit Debits" onclick="debits.htm">		 </td>
-    </tr>
-
-    <tr>
-
-      <td><div align="right"><strong>Amount of Deposits:
-
-		</strong></div></td>
-
-      <td>
-
-      	<input type="button" value="=" onclick="document.write(document.form1.amtdeposits.value);"></td>
-      	      	<input type="button" value="Edit Deposits" onclick="document.write("deposits.htm");"></td>
-    </tr>
-
-
-    <tr>
-
-      <td><div align="right"><strong>Amount of Bills Owed:</strong></div></td>
-    </tr>
-
-  </td>
-
-  </tr>
-
-            </table>
-			<p>&nbsp;</p></td>
-
-
-  </tr>
-  </table>
-
-
-
-
-    <td height="31"></tr>
-	<td><div><strong>
-
-       <tr>
-         <p><strong>Me MONEY!!</strong><br>
+    <h2>Amount of Debits: </h2>
+    <input type="button" value="=" onclick="document.write(document.form1.amtdebits.value);">		
+    <br>    
+    <input type="button" value="Edit Debits" onclick="window.open('debits.htm', '_self')">
+     <br> 
+    <h2>Amount of Deposits:</h2>
+    <input type="button" value="=" onclick="document.write(document.form1.amtdeposits.value);">
+    <input type="button" value="Edit Deposits" onclick="window.open('deposits.htm','_self')">
+    <h2>Amount of Bills Owed:</h2>
+    <input type="button" value="=" onclick="document.write(document.form1.amtbills.value);">
+    <input type="button" value="Edit Bills" onclick="window.open('bills.htm','_self')">
+</div> <!-- End the Adjustments section -->
+     <br> 
+<div> <!-- Begin the Results section -->
+    <p><h2>Me MONEY!!</h2><br>
            (must click on Bills Amt
            (below)  <br /> and Deposits Amt (above) first ) </p>
          <span class="totalamt"><input type="button" value="=" onclick="">
 
 		<input type="text" size="10" name="memoney" id="memoney">
 
-
-
-
-	  </td>
-
-
-	</tr>
-  </table>
-
-	    <p>&nbsp;</p>
 		</form>
-</div>
+</div> <!-- End the Results section -->
+</div> <!-- End the Bootstrap section -->
+
+        <script src="http://code.jquery.com/jquery-latest.js"></script>
+        <script src="js/bootstrap.min.js"></script>	
 </body>
 </html>
 

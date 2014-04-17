@@ -18,7 +18,7 @@
 <div class="skills">
 <h2>Technologies Used</h2>
 <p><strong>Front End:</strong> XHTML/HTML5, CSS, JavaScript, Bootstrap, Markdown</p>
-<p><strong>Back End: </strong>PHP, Python, MS SQL Server, MySQL</p>
+<p><strong>Back End: </strong> some PHP, some Python, MS SQL Server, MySQL</p>
 <p><strong>Design/Media:</strong> Photoshop, Illustrator, InDesign, Premiere Pro, Openshot Video Editor</p>
 <p><strong>Misc.:</strong> Git, Nginx, Apache, IIS, Jekyll</p>
 </div>
@@ -50,9 +50,8 @@ Python
 <li><p>Bootstrap 2: Adding Interactivity (1.5 hrs)(9/13/13)</p></li>
 <li><p>Bootstrap 3: New Features and Migration (0.75 hrs)(9/13/13)</p></li>
 <li><p>Working with Data on the Web (2.5 hrs) (10/3/13)</p></li>
-<li><p>JavaScript and JSON (Taking now)</p></li>
+<li><p>JavaScript and JSON (1.25 hrs) (11/21/13)</p></li>
 <li><p>Foundations of Programming: Fundamentals (using JavaScript) (5 hrs)(Taking Soon)</p></li>
-<li><p>PHP with MySQL : Essential Training (11 hrs) (Taking Soon)</p></li>
 <li><p>Foundations of Programming: Object-Oriented Design (3 hrs)(Taking Soon)</p></li>
 </ul>
 <!--
@@ -87,19 +86,23 @@ Using Perl/CGI Scripts (2.5 hrs)
 
 <div class="projects">
 <h2>Projects</h2>
-<strong><p>Project: Customized music player (In Planning Stages)</strong><br />
+<!--<strong><p>Project: Customized music player (In Planning Stages)</strong><br />
 Client: Myself / 24thbay.com<br />
 Technology used: PHP /HTML form front-end /MySQL server back-end</p>
-<br />
+<br /> -->
 
 <strong><p>Project: Yums (a self-hosted form of Delicious) (In Planning Stages)</strong><br />
 Client: Myself<br />
-Technology used: PHP /HTML form front-end /MySQL server back-end</p>
+Technology used: JavaScript /HTML form front-end /JSON back-end</p>
 <br />
 
-<strong><p>Project: Intranet birthday/employee info site (In Planning Stages)</strong><br />
+<strong><p>Project: Interactive Research Paper (1/14)</strong><br />
+Client: Center for the Advancement of Learning and Assessment (CALA, Florida State University) (part of a team)<br />
+Technology used: HTML5 / Git (project uses HTML5 / CSS3 / JavaScript / JQuery and Git)</p>
+<br />
+<strong><p>Project: Intranet birthday/employee info site (9/13)</strong><br />
 Client: Center for the Advancement of Learning and Assessment (CALA, Florida State University)<br />
-Technology used: PHP /HTML form front-end /MySQL server back-end OR Django</p>
+Technology used: HTML form front-end /XML</p>
 <br />
 
 <strong><p>Project: Event Registration page (7/19/12 to 8/22/12)</strong><br />
