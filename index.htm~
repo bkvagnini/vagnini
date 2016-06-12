@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Brian K. Vagnini - tech</title>
+        <title>Brian K. Vagnini - code monkey</title>
         <link href="css/print.css" rel="stylesheet" type="text/css">
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
         <link href="css/bootstrap-theme.css" rel="stylesheet" type="text/css">
@@ -19,40 +19,59 @@
     <body>
         <header class="col col-lg-12 text-center">
             <h2>Welcome to Vagnini.net</h2>
-            <p>This is my Technical landing page.</p>
         </header>
     
         <section>
             <article id="text" class="col col-lg-12 text-center">
-                <p> The short version? I'm a Network Administrator (Windows, MAC XServe and Linux), who also does some website<br /> design, along with a smattering of PHP, JavaScript and Python code. <br /> I have also written technical articles & manuals, as well as taught technical courses for a total of five years.</p>
-                <p>My Creative landing page is at <a href="http://briankvagnini.com" >briankvagnini.com</a></p>
+                <p> <em>The short version?</em>  I'm Brian K. Vagnini,  a Network Administrator (Windows, MAC XServe and Linux), moving into <br>Programming in PHP, JavaScript, and Python. <br /> I have also written technical articles & manuals, as well as taught technical courses for a total of five years.</p>
+                <p>My Creative landing page <em>(where I do a bunch of other cool stuff)</em> is at <a href="http://briankvagnini.com" >briankvagnini.com</a></p>
             </article><!--end of overview article --> 
         </section>
 
 	    <div class="row">
-	    <aside class="col col-lg-3 sidebar"><!--end of sidebar aside -->
-		    <ul>
+	    <!-- <aside class="col col-lg-3 sidebar"> --><!--end of sidebar aside -->
+        <article class="col col-lg-12 text-center"><!--end of sidebar aside -->
+		    
 		        <h3> Projects/Links</h3>
-		            <li><a href="http://wicketbang.com"> Wicketbang.com- a web design related blog</a></li>
-		            <li><a href="http://lessonsfromthetrenches.com"> Lessons from the Trenches- How to be a GOOD Network Administrator</a> Technical book in progress</li>
-		            <li><a href="http://virtualdotcompanies.com"> virtual.companies- a book about how to Bootstrap your Startup</a></li>
-		            <li><a href="http://www.linkedin.com/in/briankvagnini/"> My LinkedIn account</a></li>
-		            <li><a href="https://github.com/bkvagnini"> My Github account</a></li>
-		            <li><a href="BrianProgrammingCV.pdf"> My Print Resume</a></li>
-		            <li><a href="bkvcv.htm"> My Online Resume</a></li>
-		            <br />
+		            <a href="http://wicketbang.com"> Wicketbang.com- a web design related blog</a>
+                <br><br>
+		            <a href="http://lessonsfromthetrenches.com"> Lessons from the Trenches<br>- How to be a GOOD Network Administrator</a> <br><em>(Technical book in progress)</em>
+                <br><br>
+		            <a href="http://virtualdotcompanies.com"> virtual.companies-<br> a book about how to Bootstrap your Startup</a>
+                <br><br>
+		            <a href="http://www.linkedin.com/in/briankvagnini/"> My LinkedIn account</a>
+                <br><br>
+		            <a href="https://github.com/bkvagnini"> My Github account</a>
+                <br><br>
+                <p>My stackoverflow account<br>
+                <a href="http://stackoverflow.com/users/3546767/bkvagnini">
+                <img src="http://stackoverflow.com/users/flair/3546767.png" width="208" height="58" alt="profile for bkvagnini at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for bkvagnini at Stack Overflow, Q&amp;A for professional and enthusiast programmers"> </p>
+                </a>
+                <br><br>
+                <br>
+		            <a href="BrianProgrammingCV.pdf"> My Print Resume</a>
+                <br><br>
+		            <a href="bkvcv.htm"> My Online Resume</a>
+                <br><br>
+                <br />
 		            <hr />
 		            <h3>Tools</h3>
-		            <li><a href="tools/m-balances.htm"> Me Money tool</a></li>
-		            <li><a href="tools/yummy/index.php"> Yums[Your Url Management System] (my version of Delicious)- coming soon...</a></li>
+		            <a href="http://6gen3.com/m-balances.htm"> Me Money tool</a>
+                <br><br>
+                <a href="tools/interactive_chapter/"> Interactive Book with Chapters (template)</a>
+                <br><br>
+		            <!--
+                  <li><a href="tools/yummy/index.php"> Yums[Your Url Management System] (my version of Delicious)- coming soon...</a></li>
 		            <li><a href="tools/tinyrss/index.php"> TinyTinyRss (replacement for Google Reader)- moving here soon...<a></li>
-            </ul>
-	    </aside><!--end of sidebar aside -->
+                  -->
+            
+	    </article><!--end of sidebar aside -->
 	
 	    <!-- <div class="pic"> -->
         <div class="col col-lg-9">
-	        <img src="images/me-tatshop.jpg" alt="closeup of my face at an angle, looking up" width="90%" height="90%"/>
-	    </div><!--end of pic div -->
+	        <!-- <img src="images/EMA-author-pic-adjusted.jpg" alt="My author picture" width="60%" height="60%"/> -->
+ 			<!--<img src="images/me_in_kitchen081614_cropped.jpg" alt="My picture" width="60%" height="60%"/> -->
+	    </div><!--end of pic div --> 
 	    </div><!--end of row div -->	
 	    <div class="news">
 	
@@ -65,4 +84,4 @@
         <script src="http://code.jquery.com/jquery-latest.js"></script>
         <script src="js/bootstrap.min.js"></script>		
     </body>
-</html>
+</html> 

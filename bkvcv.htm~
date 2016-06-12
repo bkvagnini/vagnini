@@ -18,9 +18,9 @@
 <div class="skills">
 <h2>Technologies Used</h2>
 <p><strong>Front End:</strong> XHTML/HTML5, CSS, JavaScript, Bootstrap, Markdown</p>
-<p><strong>Back End: </strong> some PHP, some Python, MS SQL Server, MySQL</p>
-<p><strong>Design/Media:</strong> Photoshop, Illustrator, InDesign, Premiere Pro, Openshot Video Editor</p>
-<p><strong>Misc.:</strong> Git, Nginx, Apache, IIS, Jekyll</p>
+<p><strong>Back End: </strong> some PHP, some Python, some Ruby, some Objective-C </p>
+<p><strong>Database:</strong> MS SQL Server, MySQL</p>
+<p><strong>Misc.:</strong> Git, Nginx, Apache, IIS, Jekyll, Photoshop, Illustrator</p>
 </div>
 <div class="education">
 <h2>Certifications</h2>
@@ -28,9 +28,9 @@
 <p>CompTIA: I-Net+, Security +</p>
 <p>Microsoft: MCP+I</p>
 <h2>Courses taken</h2>
-<h3>Online tutorials</h3>
+<!--<h3>Online tutorials</h3>
 <p>learnpythonthehardway.com - Python 2.7 (Currently Taking)</p>
-<!--
+
 wibit.net -Introduction To Object Oriented Programming 
 
 <h3>Codeacademy.com classes</h3>
@@ -51,8 +51,11 @@ Python
 <li><p>Bootstrap 3: New Features and Migration (0.75 hrs)(9/13/13)</p></li>
 <li><p>Working with Data on the Web (2.5 hrs) (10/3/13)</p></li>
 <li><p>JavaScript and JSON (1.25 hrs) (11/21/13)</p></li>
-<li><p>Foundations of Programming: Fundamentals (using JavaScript) (5 hrs)(Taking Soon)</p></li>
-<li><p>Foundations of Programming: Object-Oriented Design (3 hrs)(Taking Soon)</p></li>
+<li><p>Objective-C Essentials (6 hrs) (8/15/14)</p></li>
+<li><p>Foundations of Programming: Fundamentals (using JavaScript) (4.75 hrs)(8/22/14)</p></li>
+<li><p>Up and Running with AngularJS (1.25 hrs) (Taking Now)</p></li>
+<!-- Deleted 061216
+<li><p>Foundations of Programming: Object-Oriented Design (3 hrs)(Taking Soon)</p></li> -->
 </ul>
 <!--
 PHP with MySQL: Beyond the Basics (10.5 hrs)
@@ -84,17 +87,27 @@ Using Perl/CGI Scripts (2.5 hrs)
 <li><p>PHP/MySQL (12 hours) - JavaScript (12 hours) - Perl (6 hours) - Website Accessibility (Section 508)</p></li> (6 hours) (taught these courses)
 </div>
 
+<h3>Other online courses</h3>
+<p>HP-UX System and Network Administration I (40 hours)(1/15/16)</p>
+
 <div class="projects">
 <h2>Projects</h2>
 <!--<strong><p>Project: Customized music player (In Planning Stages)</strong><br />
 Client: Myself / 24thbay.com<br />
 Technology used: PHP /HTML form front-end /MySQL server back-end</p>
 <br /> -->
+<strong><p>Project: Quality Control Analysis of Statewide Assessment Project (FCAT) (3/14 to 8/14) </strong><br />
+Client: FL Dept. of Education (part of a team)<br />
+Technology used: Ruby, Python, Objective-C</p>
+<br />
 
+<!-- Deleted 061216
 <strong><p>Project: Yums (a self-hosted form of Delicious) (In Planning Stages)</strong><br />
 Client: Myself<br />
 Technology used: JavaScript /HTML form front-end /JSON back-end</p>
 <br />
+
+-->
 
 <strong><p>Project: Interactive Research Paper (1/14)</strong><br />
 Client: Center for the Advancement of Learning and Assessment (CALA, Florida State University) (part of a team)<br />
