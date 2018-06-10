@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Test of writing to text file</title>
+</head>
+<body>
+<script type="text/javascript">
+function WriteFile()
+{
+   var fso  = new ActiveXObject("Scripting.FileSystemObject");
+   var fh = fso.CreateTextFile("Test.txt", 8,true);
+   x=document.getElementById("name").value;
+   fh.WriteLine(x);
+   fh.Close();
+}
+
+
+<form>
+    <input type="text" id="name"/>
+    <input type="button" value="Save" id="write" onclick="WriteFile()"/>
+</form>
+
+
+</body>
+
+</html>

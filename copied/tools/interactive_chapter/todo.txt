@@ -1,0 +1,2 @@
+Navigation behavior on resize should work nicer.
+Shadowbox doesn't work well for tables, because scrolling.

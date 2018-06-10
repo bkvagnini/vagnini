@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Brian K Vagnini-Writer</title>
+<meta name="keywords" content="brian k vagnini, brian vagnini, tallahassee, writer, musician, designer">
+<meta name="description" content="Who is Brian K Vagnini? Writer, Musician, Designer">
+<meta name="author" content="Brian K Vagnini">
+<link rel="stylesheet" type="text/css" href="bkv.css">
+<script>
+</script>
+</head>
+<body>
+<!-- Navigation section -->
+
+<a href="index.htm">Home</a> | <a href="about.htm">About</a> | <a href="news.php">News</a> | <a href="writer.htm">Writer</a> | <a href="musician.htm">Musician</a> | <a href="merch.htm">Merch</a> | <a href="contact.php">Contact</a>
+
+<!-- End Navigation section-->
+<h2>Brian K. Vagnini- Writer</h2>
+<img src="images/writerlogo.jpg" alt="Closeup picture of a computer keyboard" width ="25%" height="25%" />
+<p> My first story ever was an 8th grade English assignment. It was good (for an eighth grader), but pretty horrible by today's standards.</p>
+
+<p>Fast forward to 2007, where I discovered <a href="http://nanowrimo.org" target="_blank">NanoWrimo</a>, courtesy of a blogger I've never met, but read daily. I competed in 2007 and won in 2008 (meaning I finished the 50,000 word rough draft in 30 days or less) (FYI: 26 days...). 
+</p>
+<h3> Novels</h3>
+<p>That book is <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=brian+k+vagnini" target="_blank">"The Family Business"</a>. </p>
+<img src="images/FamilyBusinessCover-web.jpg" alt="Cover of The Family Business book" width ="50%" height="50%" />
+<br /><br />
+<p>The following year, I competed again, with the sequel, called <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=brian+k+vagnini" target="_blank">"The Trials of Elijah Marcus Ash"</a>. Finished in 28 days.</p>
+<img src="images/EMACover-done.jpg" alt="Cover of The Trials of Elijah Marcus Ash book" width ="50%" height="50%" />
+
+<h3> Blogging</h3>
+<p> I started actively blogging prior to 2008, though, starting up two blogs, one focused on web design, called  <a href="http://wicketbang.com" target="_blank">wicketbang.com</a> and the other, my general thoughts on music production and <a href="http://www.greymatterideas.com/wordpress/" target="_blank">life in general</a>.</p>
+
+<p> My first serious blogging came about when I contributed to <a href="http://www.lifehack.org/articles/author/bkvagnini" target="_blank">LifeHack.org</a>, followed by <a href="http://showwatcher.com/author/brian-vagnini/" target="_blank">ShowWatcher.com</a>.</p>
+<p>Somewhere in there, I wrote (on a lark, really) a short selection of Haiku poems. It's called <a href="http://www.scribd.com/doc/109356370/30-Days-of-IT-Haiku-5x8" target="_blank">"30 days of IT Haiku"</a>.</p>
+
+<h3> Technical Writing</h3>
+<p><strong>"The Modern Website" </strong>(on hold)</p>
+
+<p><a href="http://virtualdotcompanies.com/" target="_blank">"virtual . companies"</a> (coming soon)</p>
+
+<p><a href="http://www.scribd.com/doc/109356370/30-Days-of-IT-Haiku-5x8" target="_blank">"30 days of IT Haiku"</a></p>
+
+<p><a href="http://lessonsfromthetrenches.com/" target="_blank">"Lessons from the Trenches- How to be a GOOD Network Administrator"</a> (coming soon)</p>
+
+
+<h3>Competitions</h3>
+
+<p>I have participated 6 times (3 wins - 3 quit) in Nanowrimo, twice in Blog Action Day and once for ScriptFrenzy.</p>
+<img src="images/nano_part2007.gif" alt="nanowrimo participant 2007" />
+<img src="images/nano_08_winner_small.gif" alt="nanowrimo winner 2008" />
+<img src="images/blogactionday2008.jpg" alt="Blog Action Day participant 2008" />
+<img src="images/nano_09_winner_120x90.png" alt="nanowrimo winner 2009" />
+<img src="images/nano2010participant.png" alt="nanowrimo participant 2010" />
+<img src="images/AprilScriptFrenzy.jpg" alt="ScriptFrenzy participant 2010" />
+
+<h3>Future Plans</h3>
+<p> Future plans include serious revisions to the first two books, along with finally editing the third in the series, called "Scarlett", and then re-releasing it as a volume called <a href="http://www.ashfamilysaga.com" target="_blank">"The Ash Family Saga"</a>. <br />
+In addition, I will be finishing up several short stories that are in process and bundling them as a collection. No title as of yet.</p>
+
+
+
+<!--
+<canvas id="myCanvas" width="740" height="480"
+style="border:1px solid #000000;">
+</canvas>
+-->
+<!--footer begin-->
+<div id="footer">
+<p>____________________</p>
+<a href="index.htm">Home</a> | <a href="about.htm">About</a> | <a href="news.php">News</a> 
+<br />
+<a href="writer.htm">Writer</a> | <a href="musician.htm">Musician</a> | <a href="merch.htm">Merch</a> 
+<br />
+<a href="contact.php">Contact</a>
+
+</div><!-- footer end-->
+</body>
+</html>

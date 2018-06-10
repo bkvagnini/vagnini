@@ -1,0 +1,38 @@
+<doctype html>
+<html>
+<head>
+<title> CALA Intranet</title>
+<link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1> CALA Intranet</h1>
+<p> </p>
+<?php
+// "Decode" JSON into (dumb) native PHP object
+$file=file_get_contents("cala-employees.json");
+$data = json_decode($file);
+// echo $file;
+
+// Get the first item in the array
+
+$item = $data[0];
+
+echo $item;
+// Loop over the  array
+foreach ($item->employees as $employees) {
+    // echos out the info
+    echo "First Name = " . $employees->firstName . PHP_EOL;
+    echo "Last Name  = " . $employees->lastName . PHP_EOL;
+    echo "Ext Extention     = " . $employees->Ext . PHP_EOL;
+   echo "Int Extention     = " . $employees->Int . PHP_EOL;
+   echo "Room Number      = " . $employees->room . PHP_EOL;
+   echo "E-Mail Address     = " . $employees->email . PHP_EOL;
+   echo "Birthday    = " . $employees->birthday . PHP_EOL;
+}
+
+/*  // Get "name" at the end
+echo "name     = " . $item->name . PHP_EOL; */
+?>
+<p> </p>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<p id="square.result">
+<p> Sample code from StackOverflow- this may give a clue as to how to display the result of the functions that I'm writing</p>
+
+<form name = "f1"> <!-- the "this" in GetSelectedItem(this) is the input -->
+    <input type = "radio" Name = "r1" Value = "ON" onClick="GetSelectedItem(this)">On
+    <input type = "radio" Name = "r1" Value = "OFF" onClick ="GetSelectedItem(this)">Off
+</form>
+
+<div id="output"></div>
+
+<script  type="text/javascript">
+         // Grab the output eleent
+    var output = document.getElementById('output');
+
+       // "el" is the parameter that references the "this" argument that was passed
+    function GetSelectedItem(el) {
+        output.innerHTML = el.value; // set its content to the value of the "el"
+    }
+</script>
